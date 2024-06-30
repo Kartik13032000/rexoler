@@ -1,0 +1,18 @@
+.sts {
+    margin:  0 10% 0 10% ;
+}
+.stats-table {
+    margin:  0 10% 0 10% ;
+    width: 70%;
+    border-collapse: collapse;
+}
+
+.stats-table th, .stats-table td {
+    border: 1px solid #ddd; /* Border color */
+    padding: 8px;
+    text-align: left;
+}
+
+.stats-table th {
+    background-color: #f2f2f2; /* Header background color */
+}
